@@ -1,0 +1,22 @@
+body{
+    background-color: darksalmon;
+}
+h1{
+    color: crimson;
+}
+h2{
+    color: beige;
+}
+h3, label{
+    color:white;
+}
+img{
+    margin: 10px;
+    width: 800px;
+    border-radius: 20px;
+}
+img:hover{
+    border-style: solid;
+    border-width: 4px;
+    border-color: gold;
+}
